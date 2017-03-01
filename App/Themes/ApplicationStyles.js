@@ -39,6 +39,12 @@ const ApplicationStyles = {
       textAlign: 'center',
       fontWeight: 'bold'
     },
+    darkSectionText: {
+      color: Colors.coal,
+      marginVertical: Metrics.smallMargin,
+      textAlign: 'center',
+      fontWeight: 'bold'
+    },
     subtitle: {
       color: Colors.snow,
       padding: Metrics.smallMargin,
